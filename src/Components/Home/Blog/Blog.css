@@ -1,0 +1,32 @@
+.blog-boxes{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.blog{
+    margin-top: 200px;
+}
+
+.blog p{
+width: 50%;
+margin: auto;
+color: #374b5c;
+
+}
+.blog-box{
+    margin-top: 100px;
+}
+.blog-box img{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.blog-box h3{
+    color: #00dbd0;
+}
+
+.blog h4{
+    color: #374b5c;
+    border-bottom: 3px solid #00dbd0;
+    width: 20%;
+    margin: auto;
+}

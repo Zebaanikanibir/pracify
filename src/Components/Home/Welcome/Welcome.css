@@ -1,0 +1,20 @@
+.welcome{
+    margin-top: 200px;
+}
+.boxes{
+    display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   align-items: center;
+}
+
+ h1{
+color: #374b5c;
+font-size: 40px;
+font-weight: 200;
+}
+.welcome p{
+    color: #374b5c;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 50px;
+    }

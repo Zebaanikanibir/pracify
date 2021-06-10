@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    display: flex;
+}
+
+.left h2{
+    font-size: 40px;
+}
+.right-1{
+    display: flex;
+    color:#374b5c ;
+    font-weight: 600;
+}
+.item{
+    margin-right: 20px;
+    list-style: none;
+}
+
+.right ul li:nth-child(5) {
+    height: 30px;
+    width: 66px;
+    border: 1px solid #00dbd0;
+    margin: auto;
+    border-radius: 5px;
+  }

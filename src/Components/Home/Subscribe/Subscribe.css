@@ -1,0 +1,37 @@
+.subscribe-right{
+    position: relative;
+}
+.subscribe-right p{
+   width: 50%;
+   margin: auto;
+   color: #374b5c;
+}
+.subscribe{
+    margin-top: 200px;
+}
+.line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.subscribe-left img{
+    width: 100%;
+    position: absolute;
+    top:1200px;
+    left: -1000px;
+}
+.round{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    margin-top: 20px;
+}
+.line h5{
+    color: #374b5c;
+    margin-right: 30px;
+    font-size: 20px;
+}
+.info{
+    margin-top: 100px;
+}

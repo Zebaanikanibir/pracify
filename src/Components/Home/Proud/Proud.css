@@ -1,0 +1,10 @@
+.proud-boxes{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+.proud p{
+    color: #374b5c;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 50px;
+}
